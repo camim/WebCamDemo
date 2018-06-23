@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\WebcamDemo.exe
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\WebcamDemo.pdb
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Camera.dll
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Forms.Viewer.dll
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.dll
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Camera.xml
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.xml
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csprojAssemblyReference.cache
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.Form1.resources
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.Properties.Resources.resources
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.GenerateResource.cache
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.CopyComplete
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.exe
+C:\Program Files (x86)\Dynamsoft\Dynamic .NET TWAIN 7.1\Samples\C# Samples\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.pdb

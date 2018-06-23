@@ -1,0 +1,12 @@
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\bin\Release\WebcamDemo.exe
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\bin\Release\WebcamDemo.pdb
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\bin\Release\Dynamsoft.Camera.xml
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\bin\Release\Dynamsoft.ImageCore.xml
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.csprojAssemblyReference.cache
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.Form1.resources
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.Properties.Resources.resources
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.csproj.GenerateResource.cache
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.csproj.CopyComplete
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.exe
+C:\Users\Camila\source\repos\WebcamDemo\WebcamDemo\obj\Release\WebcamDemo.pdb
